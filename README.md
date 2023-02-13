@@ -1,12 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muaz Variava
-====================================================================================================================================
+Hi 👋 My name is Muaz Variava
+=============================
 
-Student in 9th grade
+student in 9th grade
 --------------------
 
 A student in 9th grade who likes coding and building stuff
 
 * 🌍  I'm based in United Arab Emirates
+* ✉️  You can contact me at [muaz.who@gmail.com](mailto:muaz.who@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Projects like games, apps, etc
 * ⚡  graphic design when bored
@@ -33,4 +34,4 @@ A student in 9th grade who likes coding and building stuff
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/muzyyyy"><img src="https://github-readme-stats.vercel.app/api?username=muaz-who&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="muaz-who's GitHub stats" /></a>
+<a href="http://www.github.com/muzyyyy"><img src="https://github-readme-stats.vercel.app/api?username=muzyyyy&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="muzyyyy's GitHub stats" /></a>
