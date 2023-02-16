@@ -1,4 +1,4 @@
-Hi 👋 My name is Muaz Variava
+# Myself, Muaz
 =============================
 
 student in 9th grade
@@ -12,7 +12,7 @@ A student in 9th grade who likes coding and building stuff
 * 🤝  I'm open to collaborating on Projects like games, apps, etc
 * ⚡  graphic design when bored
 
-### Skills
+### Tech Stack
 
 
 <p align="left">
